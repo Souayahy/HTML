@@ -1,3 +1,7 @@
-div a {
+nav {
+    div {
+        a {
     color: white;
+        }
+    }
 }
