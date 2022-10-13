@@ -1,0 +1,74 @@
+.btn {
+    font-size: 20px;
+}
+
+.left {
+    margin-left: 20px;
+    
+}
+
+.right{
+    margin-right: 20px;
+}
+
+@font-face {
+    font-family: "Bebas";
+    src: url(../Bebas.otf);
+}
+
+.text {
+    margin-top: 10px;
+    color: white;
+    
+}
+
+.ponc {
+    color: white;
+}
+
+p {
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+    font-size: 35px;
+    
+}
+
+img {
+    width: 150px;
+    height: 150px;;
+    display: block;
+    margin: auto;
+    margin-top: 4%;
+}
+
+#p1 {
+    color: white;
+    text-align: center;
+    margin-top: 0%;
+    font-size: 27px;
+    
+}
+
+#Matrix {
+    position:fixed;
+    filter: blur(6px);
+    margin-top: -7.5%;
+}
+
+body {
+    font-family: "Bebas", Regular;
+    background-color: rgb(17, 17, 17); 
+}
+
+#info {
+    height: 35px;
+    margin-top: 3%;
+}
+
+.tel {
+    margin-top: 1.0%;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
