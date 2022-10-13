@@ -1,0 +1,36 @@
+.btn {
+    font-size: 20px;
+}
+
+.left {
+    margin-left: 20px;
+    
+}
+
+.right{
+    margin-right: 20px;
+}
+
+@font-face {
+    font-family: "Bebas";
+    src: url(../Bebas.otf);
+}
+
+.text {
+    margin-top: 10px;
+    color: white;
+    
+}
+
+.ponc {
+    color: white;
+}
+
+#Matrix {
+    position: fixed;
+}
+
+body {
+    font-family: "Bebas", Regular;
+    background-color: black; 
+}
